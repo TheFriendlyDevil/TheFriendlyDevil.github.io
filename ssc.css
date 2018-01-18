@@ -6,6 +6,13 @@ h1{
 	display: inline;
 	font-size: 6em;
 }
+h2{
+	width: 50%;
+	margin-right: none;
+}
+h4{
+	float: right;
+}
 center a{
 	text-decoration: none;
 	color: black;
