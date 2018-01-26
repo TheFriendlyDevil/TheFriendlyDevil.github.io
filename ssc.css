@@ -55,6 +55,18 @@ a:hover{
 	margin-right: 12.5%;
 	margin-top: 2.5%;
 }
+.mainBody table{
+	width: 100%;
+}
+.mainBody table td:first-child{
+	width: 30%
+}
+.mainBody table td:last-child{
+	text-align: right;
+}
+.CAKEAAAAAA{
+	width: 100%
+}
 .logo{
 	width: 64px;
 	height: 90px;
